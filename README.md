@@ -128,4 +128,4 @@ These behaviors should be documented in the execution report or defect report.
 
 ## Author
 
-Mervat Ahmed
+Salma Mizar
