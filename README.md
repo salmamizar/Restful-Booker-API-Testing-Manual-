@@ -129,3 +129,4 @@ These behaviors should be documented in the execution report or defect report.
 ## Author
 
 Salma Mizar
+Software QA Engineer
