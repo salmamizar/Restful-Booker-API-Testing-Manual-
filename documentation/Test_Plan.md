@@ -97,13 +97,13 @@ Main valid booking payload:
 
 ```json
 {
-  "firstname": "Mervat",
-  "lastname": "Ahmed",
-  "totalprice": 250,
+  "firstname": "Salma",
+  "lastname": "Mizar",
+  "totalprice": 150,
   "depositpaid": true,
   "bookingdates": {
-    "checkin": "2026-07-01",
-    "checkout": "2026-07-05"
+    "checkin": "2026-04-01",
+    "checkout": "2026-04-05"
   },
   "additionalneeds": "Breakfast"
 }
